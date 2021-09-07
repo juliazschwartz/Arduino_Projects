@@ -1,7 +1,7 @@
 
 #para CÉDULAS:
 valor = int(input('valor: '))
-valor
+valor;;
 notas = [200,100,50,20,10,2,1];
 
 while True:
