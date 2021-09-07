@@ -1,7 +1,11 @@
 
 #para CÉDULAS:
 valor = int(input('valor: '))
+<<<<<<< HEAD
 valor;;
+=======
+valor;
+>>>>>>> 3f0484a36413a9e41346c166c64dda4bbb5e0e04
 notas = [200,100,50,20,10,2,1];
 
 while True:
