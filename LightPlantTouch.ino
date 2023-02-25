@@ -1,3 +1,6 @@
+
+//This is a hobbie project, a living plant containing a home-made resistive touch sensor in its roots, wich lights up a led when someone touch its leaves.
+
 #include <CapacitiveSensor.h>
 
 CapacitiveSensor   cs_2_4 = CapacitiveSensor(2,4); // 1M resistor between pins 2 & 4, pin 4 is sensor pin, add a wire and 
