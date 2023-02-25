@@ -1,3 +1,10 @@
+//This code is from the project made for a new type of detection for Point of Care (POC) diagnosis systems,
+//based in fluorescence results from molecular assays.
+//This was first designed to read different levels of fluorescence from CRISPR -Sherlock systems (https://sherlock.bio/) 
+// and DETECTR systems (https://mammoth.bio/diagnostics/), as a portable method to detect covid in communities, in the 2020 pandemics,
+// but other uses can be made.
+// Some adjustments are still required, as the sensitivity of the LDR light sensor.
+
 
 //Ajuste para não agrupar valores com divisores de tensão.
 #include <LiquidCrystal_I2C.h>
